@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Name: Iqra habib:')
+=======
+Name: Iqra habib
+>>>>>>> 3bc85c708246973dcd5fea71e20f36bd8e798da9
 Email: iqrahabib477@gmail.com
 Faculty of information technology
 UCP
